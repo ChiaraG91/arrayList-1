@@ -15,9 +15,9 @@ public class Main {
         student.add(String.valueOf(studente3));
         System.out.println(student);
 
-        student.add(String.valueOf(new Student("Fabio",21)));
-        student.add(String.valueOf(new Student("Giulia", 20)));
-        student.add(String.valueOf(new Student("Marco",22)));
+        student.add(String.valueOf(new Student("Luca",21)));
+        student.add(String.valueOf(new Student("Giorgia", 20)));
+        student.add(String.valueOf(new Student("Mario",22)));
 
         System.out.println(student);
 
