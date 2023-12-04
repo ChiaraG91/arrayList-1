@@ -27,9 +27,6 @@ public class Student {
         this.age = age;
     }
 
-    public void stampaDettagli() {
-        System.out.println("nome:" + name + " " + "età:" + "" + age);
-    }
 
     @Override
     public String toString() {
